@@ -21,15 +21,11 @@ Soy un desarrollador web, creative UI/UX developery dueño y fundador de **Rodst
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma,canva"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=githubactions,gitlarun"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
