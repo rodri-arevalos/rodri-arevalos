@@ -5,8 +5,6 @@ Hola, me llamo Rodrigo!
 	</a>
 </h1>
 
-<hr>
-
 Soy un desarrollador web, creative UI/UX developery dueño y fundador de **Rodstar Studio**. Construyo experiencias digitales interactivas, interfaces cuidadas y aplicaciones web modernas fluidas.
 
 * 🌱 Actualmente sigo expandiendo mis habilidades en el desarrollo full-stack y Diseño de UI/UX.
