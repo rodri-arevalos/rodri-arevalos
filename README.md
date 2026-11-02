@@ -9,8 +9,6 @@ Hola, me llamo Rodrigo!
 
 Soy un desarrollador web, creative UI/UX developery dueño y fundador de **Rodstar Studio**. Construyo experiencias digitales interactivas, interfaces cuidadas y aplicaciones web modernas fluidas.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodri-arevalos" alt="rodri-arevalos" /> </p>
-
 * 🌱 Actualmente sigo expandiendo mis habilidades en el desarrollo full-stack y Diseño de UI/UX.
 * 👯 Espero colaborar en proyectos de código abierto.
 * 💡 Me gusta explorar nuevas tecnologías y aprender cosas nuevas.
