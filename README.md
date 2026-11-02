@@ -58,7 +58,7 @@ Soy un desarrollador web, creative UI/UX developery dueño y fundador de **Rodst
 </table>
 
 ## Mis contactos ">
-<a href="https://github.com/rodri-arevalos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
+<a href="https://github.com/rodri-arevalos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rodri-arevalos" height="30" width="40" /></a>
 [![Gmail Badge](https://img.shields.io/badge/-hola@rodstar.studio-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:hola@rodstar.studio)&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rodrii.arevalos/)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-rodrii.arevalos-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rodrii.arevalos/)&nbsp;
 <br>
